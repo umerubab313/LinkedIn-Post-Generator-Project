@@ -1,5 +1,5 @@
 # LinkedIn-Post-Generator-Project
-##📌 Project Overview
+#📌 Project Overview
 
 This project is a LinkedIn Post Generator built using a Large Language Model (LLM) to help users create professional, engaging LinkedIn posts based on a given topic, tone, or prompt.
 
