@@ -15,7 +15,7 @@ The model generates a structured, professional LinkedIn post
 
 Output is displayed to the user
 
-<b>🛠 Technologies Used
+<b>🛠 Technologies Used</b>
 
 Python
 
