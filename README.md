@@ -1,11 +1,11 @@
 # LinkedIn-Post-Generator-Project
-#📌 Project Overview
+<b>📌 Project Overview</b>
 
 This project is a LinkedIn Post Generator built using a Large Language Model (LLM) to help users create professional, engaging LinkedIn posts based on a given topic, tone, or prompt.
 
 The goal of this project was to understand how Generative AI models can be integrated into real-world applications while keeping the system simple, modular, and explainable.
 
-##🧠 How It Works
+<b>🧠 How It Works</b>
 
 User provides a topic or brief idea
 
@@ -15,7 +15,7 @@ The model generates a structured, professional LinkedIn post
 
 Output is displayed to the user
 
-##🛠 Technologies Used
+<b>🛠 Technologies Used
 
 Python
 
@@ -25,7 +25,7 @@ Streamlit (for UI)
 
 VS Code
 
-##🎯 Key Learnings
+<b>🎯 Key Learnings</b>
 
 How to work with LLM APIs
 
@@ -35,11 +35,11 @@ Building simple GenAI applications
 
 Understanding limitations and responsible use of LLMs
 
-##📌 Note
+<b>📌 Note</b>
 
 This project focuses on using a pre-trained LLM for content generation and does not involve training a custom machine learning model.
 
-##🚀 Future Improvements
+<b>🚀 Future Improvements</b>
 
 Tone customization (formal, casual, technical)
 
